@@ -1,0 +1,162 @@
+
+body{
+    font-family: sans-serif;
+    background-color:#ffffff;
+}
+.master-div{
+    width:900px;
+    margin:0 auto;
+
+}
+.header{
+    height:150px;
+    width:900px;
+    background:#3a3a3a;
+}
+.tagline-one{
+    text-align: center;
+    color: #76cb49;
+    position: relative;
+    top: 44px;
+    font-size: 41px;
+    margin-bottom: 38px;
+}
+.tagline-two{
+    text-align:center;
+    color:#419f3f;
+}
+.navigation-box{
+    width:900px;
+    background-color:rgb(225, 243, 142);
+    margin-top:17px;
+    margin-bottom:17px;
+}
+.nav-bar{
+    height:40px;
+    width:900px;
+    background-color: rgb(3, 155, 3);
+    border-radius: 7px;
+}
+ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+    
+}
+li{
+  float:left;
+    
+    
+}
+a{
+    color: white;
+    line-height: 42px;
+    text-decoration: none;
+    padding: 11px 12px 10px 12px;
+    margin-left: 14px;
+   
+}
+a:first-of-type{
+background-color:darkgreen;
+}
+.banner-image img{
+    width:900px;
+    height:229px;
+} 
+.left-column{
+    width:30%; 
+    float:left;  
+}
+.left-column-heading{
+    font-size:22px;
+    color:green;
+    margin-left:24px;
+    border-bottom: 1px solid rgb(190, 186, 186);
+    width:64%;
+    padding-bottom: 7px;
+    margin-bottom:10px;
+    margin-top:32px;
+    
+}
+.left-column-para{
+    margin-left:28px;
+    font-size:12px;
+    width:70%;
+    line-height:24px;
+}
+.right-column{
+    width:70%;
+    float:left;
+   
+}
+.right-heading{
+    margin-left: 29px;
+    font-size: 35px;
+    margin-top: 24px;
+    color: green;
+}
+h6{
+           /* margin-top: -19px; */
+    position: relative;
+    /* top: -22px; */
+    bottom: 31px;
+    left: 31px;
+    }
+.para-heading{
+    position:relative;
+    bottom:29px;
+    left: 27px;
+    font-size: 13px;
+    line-height: 26px;
+    text-align: justify;
+    width:84%;
+}
+.para-second{
+    position: relative;
+    bottom: 22px;
+    left: 27px;
+    font-size: 13px;
+    line-height: 26px;
+    text-align: justify;
+    border-bottom: 1px solid rgb(190, 186, 186);
+    padding-bottom: 22px;
+    width: 84%;
+}
+.column-two{
+    position:relative;
+    bottom:48px;
+}
+.column-heading{
+   position: relative;
+   left:30px;
+    font-size: 35px;
+  
+    color: green;
+}
+.column-third{
+    position: relative;
+    bottom:80px;
+}
+.second-para{
+    position:relative;
+    bottom:16px;
+    left: 32px;
+    font-size: 13px;
+    line-height: 26px;
+    text-align: justify;
+    width:84%;
+    border-bottom: 1px solid rgb(190, 186, 186);
+    padding-bottom:37px;
+}
+.footer{
+    clear:both;
+    height:150px;
+    width:900px;
+    background-color:#3a3a3a;
+}
+.tagline-three{
+    text-align:center;
+    color:#bcf7bd;
+    padding-top:14px;
+    font-size:20px;
+}
